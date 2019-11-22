@@ -4,4 +4,14 @@
   <artifactId>en_groupe</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>genit_log</name>
+  <dependencies>
+       <!-- https://mvnrepository.com/artifact/junit/junit -->
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.13-beta-3</version>
+    <scope>test</scope>
+</dependency>
+       
+  </dependencies>
 </project>
